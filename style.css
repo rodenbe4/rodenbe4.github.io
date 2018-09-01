@@ -1,3 +1,15 @@
+div.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	border-top-style: groove;
+	border-color: #FA7A99;
+	border-width: 2px;
+}
+
 body {
-	background-color: #FA7A99;
+	color: #F71165;
+	background-color: #FFEFD5;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
